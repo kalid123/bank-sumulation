@@ -33,3 +33,5 @@ python3 bank_simulation.py
 
 ## Platform Compatibility:
 Tested and works on `cs1` and `cs2` machines. No external dependencies or IDE configurations are required.
+## Git hub link
+https://github.com/kalid123/bank-sumulation
